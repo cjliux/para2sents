@@ -1,0 +1,22 @@
+0it [00:00, ?it/s]4it [00:00, 37.90it/s]
+matching:
+aa a bc
+aa abc
+result:
+[('aa', 'aa', 0.0), ('abc', 'abc', 0.0)]
+matching:
+ammrt satr wea feencl onseylo rda
+ammrtsa trwe afeen clonseyl orda
+result:
+[('ammrtsatrweafeenclonseylorda', 'ammrtsatrweafeenclonseylorda', 0.0)]
+matching:
+snbiih hiohra
+snbiihh iohra
+result:
+[('snbiihhiohra', 'snbiihhiohra', 0.0)]
+matching:
+ecr sst elees ieslnsh etewoo iroldo iea hss ohecdwu aariyie auens
+ecrs steleesi eslnsh etewoo iroldoie ahssoh ecdwua ariyiea uen s
+result:
+[('ecrssteleesieslnsh', 'ecrssteleesieslnsh', 0.0), ('etewoo', 'etewoo', 0.0), ('iroldoieahssohecdwuaariyieauens', 'iroldoieahssohecdwuaariyieauens', 0.0)]
+[31mvoid DBusMenuExporterPrivate::addAction(QAction*, int)[0m: Already tracking action "Project explorer" under id 133 
